@@ -228,8 +228,8 @@ Predicted Student Performance: Excellent
 **Aditi**
 B.Tech Student, Department of Artificial Intelligence & Machine Learning
 
-Team: Pragati Ligade, Padmaja Kothawale, Karuna Bhosale, Saniya Patil
-Guide: Mrs. Shamal Desai
+Team:  Karuna Bhosale
+
 
 ---
 
